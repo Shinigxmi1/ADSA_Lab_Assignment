@@ -1,0 +1,37 @@
+# Advanced Data Structures and Algorithms (ADSA)
+
+This repository contains the laboratory assignments, implementations, and solutions for the **Advanced Data Structures and Algorithms (ADSA)** course as part of the **M.Tech in Data Science and Engineering (DSE)** program at **National Institute of Technology, Jamshedpur**.
+
+## Student Information
+
+| Detail | Information |
+|---|---|
+| **Name** | Akash |
+| **Roll Number** | 2026PGCSDS06 |
+| **Program** | M.Tech – Data Science and Engineering |
+| **Institute** | National Institute of Technology, Jamshedpur |
+| **Course** | Advanced Data Structures and Algorithms (ADSA) |
+
+## Repository Overview
+
+The repository is organized assignment-wise to maintain a structured collection of the programs and solutions completed as part of the ADSA laboratory coursework.
+
+### Directory Structure
+
+```text
+ADSA/
+│
+├── Set1/
+│   ├── set1_q1.c
+│   ├── set1_q2.c
+│   └── ...
+│
+├── Set2/
+│   ├── set2_q1.c
+│   ├── set2_q2.c
+│   └── ...
+│
+├── Set3/
+│   └── ...
+│
+└── README.md
