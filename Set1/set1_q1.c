@@ -24,19 +24,18 @@ void infixToPostfix(char infix[], char postfix[])
     {
         char ch = infix[i];
 
-        /* Operand */
+     
         if (isdigit((unsigned char)ch))
         {
             postfix[j++] = ch;
         }
 
-        /* Opening parenthesis */
         else if (ch == '(')
         {
             stack[++top] = ch;
         }
 
-        /* Closing parenthesis */
+
         else if (ch == ')')
         {
             while (top != -1 && stack[top] != '(')
@@ -51,10 +50,10 @@ void infixToPostfix(char infix[], char postfix[])
                 return;
             }
 
-            top--;   // remove '('
+            top--;  
         }
 
-        /* Operator */
+
         else if (ch == '+' || ch == '-' || ch == '*' || ch == '/')
         {
             while (top != -1 &&
@@ -77,7 +76,6 @@ void infixToPostfix(char infix[], char postfix[])
         i++;
     }
 
-    /* Pop remaining operators */
     while (top != -1)
     {
         if (stack[top] == '(')
