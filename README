@@ -1,37 +1,59 @@
-# Advanced Data Structures and Algorithms (ADSA)
+<div align="center">
 
-This repository contains the laboratory assignments, implementations, and solutions for the **Advanced Data Structures and Algorithms (ADSA)** course as part of the **M.Tech in Data Science and Engineering (DSE)** program at **National Institute of Technology, Jamshedpur**.
+# 📚 Advanced Data Structures & Algorithms
 
-## Student Information
+### ADSA — Lab Assignments & Solutions
 
-| Detail | Information |
-|---|---|
-| **Name** | Akash |
-| **Roll Number** | 2026PGCSDS06 |
-| **Program** | M.Tech – Data Science and Engineering |
-| **Institute** | National Institute of Technology, Jamshedpur |
-| **Course** | Advanced Data Structures and Algorithms (ADSA) |
+**M.Tech in Data Science & Engineering**  
+**National Institute of Technology, Jamshedpur**
 
-## Repository Overview
+<br>
 
-The repository is organized assignment-wise to maintain a structured collection of the programs and solutions completed as part of the ADSA laboratory coursework.
+![Language](https://img.shields.io/badge/Language-C-blue?style=for-the-badge&logo=c)
+![Course](https://img.shields.io/badge/Course-ADSA-purple?style=for-the-badge)
+![Program](https://img.shields.io/badge/Program-M.Tech%20DSE-orange?style=for-the-badge)
+![Institute](https://img.shields.io/badge/NIT-Jamshedpur-green?style=for-the-badge)
 
-### Directory Structure
+</div>
+
+---
+
+## 👨‍💻 About This Repository
+
+This repository contains the **laboratory assignments, implementations, and solutions** for the **Advanced Data Structures & Algorithms (ADSA)** course as part of the **M.Tech in Data Science & Engineering (DSE)** program at **National Institute of Technology, Jamshedpur**.
+
+The assignments are organized systematically by set to make the repository easy to navigate and maintain throughout the course.
+
+---
+
+## 🎓 Student Information
+
+| **Field** | **Details** |
+|:---|:---|
+| 👤 **Name** | **Akash Bartwal** |
+| 🎓 **Program** | M.Tech — Data Science & Engineering |
+| 🏛️ **Institute** | National Institute of Technology, Jamshedpur |
+| 📖 **Course** | Advanced Data Structures & Algorithms |
+| 🆔 **Roll Number** | 2026PGCSDS06 |
+
+---
+
+## 📂 Repository Structure
 
 ```text
 ADSA/
 │
-├── Set1/
-│   ├── set1_q1.c
-│   ├── set1_q2.c
+├── 📁 Set1/
+│   ├── 📄 set1_q1.c
+│   ├── 📄 set1_q2.c
 │   └── ...
 │
-├── Set2/
-│   ├── set2_q1.c
-│   ├── set2_q2.c
+├── 📁 Set2/
+│   ├── 📄 set2_q1.c
+│   ├── 📄 set2_q2.c
 │   └── ...
 │
-├── Set3/
+├── 📁 Set3/
 │   └── ...
 │
-└── README.md
+└── 📄 README.md
