@@ -22,7 +22,7 @@
 
 This repository contains the **laboratory assignments, implementations, and solutions** for the **Advanced Data Structures & Algorithms (ADSA)** course as part of the **M.Tech in Data Science & Engineering (DSE)** program at **National Institute of Technology, Jamshedpur**.
 
-The assignments are organized systematically by set to make the repository easy to navigate and maintain throughout the course.
+The assignments are organized **set-wise** to maintain a structured and accessible collection of all laboratory work completed throughout the course.
 
 ---
 
@@ -34,61 +34,26 @@ The assignments are organized systematically by set to make the repository easy 
 | 🎓 **Program** | M.Tech — Data Science & Engineering |
 | 🏛️ **Institute** | National Institute of Technology, Jamshedpur |
 | 📖 **Course** | Advanced Data Structures & Algorithms |
-| 🆔 **Roll Number** | 2026PGCSDS06 |
+| 🆔 **Roll Number** | **2026PGCSDS06** |
 
 ---
 
 ## 📂 Repository Structure
 
 ```text
-ADSA/
+📦 ADSA Lab Assignments
 │
-├── 📁 Set1/
+├── 📁 Set1
 │   ├── 📄 set1_q1.c
 │   ├── 📄 set1_q2.c
 │   └── ...
 │
-├── 📁 Set2/
+├── 📁 Set2
 │   ├── 📄 set2_q1.c
 │   ├── 📄 set2_q2.c
 │   └── ...
 │
-├── 📁 Set3/
+├── 📁 Set3
 │   └── ...
 │
 └── 📄 README.md
-```
-
----
-
-## 🛠️ Tools & Technologies
-
-- **C** — Programming Language
-- **Visual Studio Code** — Development Environment
-- **Git & GitHub** — Version Control & Repository Management
-
----
-
-## 🎯 Purpose
-
-This repository serves as a structured collection of my **ADSA laboratory coursework** throughout the M.Tech in Data Science & Engineering program.
-
-It is maintained to practice:
-
-- Data Structures
-- Algorithm Design
-- Problem Solving
-- Algorithmic Efficiency
-- Implementation & Optimization
-
----
-
-<div align="center">
-
-### ⭐ Learn • Implement • Improve
-
-**Akash Bartwal**  
-*M.Tech — Data Science & Engineering*  
-**NIT Jamshedpur**
-
-</div>
