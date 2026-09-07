@@ -96,7 +96,7 @@ The laboratory work covers the implementation and application of various **data 
 | Assignment | Status |
 |:---:|:---:|
 | **Set 1** | ✅ Completed |
-| **Set 2** | ⏳ Upcoming |
+| **Set 2** | ✅ Completed|
 | **Set 3** | ⏳ Upcoming |
 | **Set 4** | ⏳ Upcoming |
 
